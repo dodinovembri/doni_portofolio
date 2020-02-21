@@ -14,3 +14,4 @@
 Auth::routes();
 
 Route::get('/', 'HomeController@index')->name('home');
+Route::get('/all_experience', 'HomeController@all_experience')->name('all_experience');

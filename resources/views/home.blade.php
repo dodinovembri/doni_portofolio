@@ -88,14 +88,10 @@
                     <span class="custom-about-me-infos">
                         <span class="custom-text-color-1 text-uppercase">Kenali, 29 September 1997</span>
                         <span class="custom-text-color-1 text-uppercase mb-3">Information Technology &amp; Services</span>
-                        <span class="custom-text-color-1 text-uppercase">
-                            <strong class="text-color-light">Previous: </strong>
-                            Public Speaking
-                            <a data-hash href="#experience" class="btn btn-tertiary text-uppercase custom-btn-style-1 text-1 ml-2">View More</a>
-                        </span>
+                        <span class="custom-text-color-1 text-uppercase">Public Speaking And Strategi Marketing Media Sosial</span>
                         <span class="custom-text-color-1 text-uppercase">
                             <strong class="text-color-light">Education: </strong>
-                            Sarjana Administrasi Publik, Universitas Sriwijaya
+                            Universitas Sriwijaya
                             <a data-hash href="#education" class="btn btn-tertiary text-uppercase custom-btn-style-1 text-1 ml-2">View More</a>
                         </span>
                     </span>
@@ -242,8 +238,8 @@
                                         </span>
                                     </div>
                                     <div class="experience-description col-lg-9 col-sm-7 bg-color-light">
-                                        <h4 class="text-color-dark font-weight-semibold">Chief Product Officer</h4>
-                                        <p class="custom-text-color-2">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam tincidunt nulla tortor, a imperdiet enim tristique nec. Nulla lobortis leo eget metus dapibus sodales. Sed placerat vitae dui vitae vehicula. Quisque in tincidunt ligula, nec dignissim arcu.</p>
+                                        <h4 class="text-color-dark font-weight-semibold">CV. ERSELIA CITRA PERSADA</h4>
+                                        <p class="custom-text-color-2">Administrasi Konsultan: Melakukan riset, membuat karya, membuat Kerangka Kerja (KAK), Pengajuan lelang, pemenangan dan Negosiasi.</p>
                                     </div>
                                 </div>
                             </article>
@@ -265,8 +261,8 @@
                                         </span>
                                     </div>
                                     <div class="experience-description col-lg-9 col-sm-7 bg-color-light">
-                                        <h4 class="text-color-dark font-weight-semibold">Chief Product Officer</h4>
-                                        <p class="custom-text-color-2">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam tincidunt nulla tortor, a imperdiet enim tristique nec. Nulla lobortis leo eget metus dapibus sodales. Sed placerat vitae dui vitae vehicula. Quisque in tincidunt ligula, nec dignissim arcu.</p>
+                                        <h4 class="text-color-dark font-weight-semibold">ARCHIPELAGO INTERNASIONAL</h4>
+                                        <p class="custom-text-color-2">Front Office (ASIAN GAMES): Bertugas menyambut tamu, komunikator,  verifikasi dokumen atlet dari berbagai negara untuk reservasi (check in/out), menginput data, dan menulis buku lost and found.</p>
                                     </div>
                                 </div>
                             </article>
@@ -288,14 +284,17 @@
                                         </span>
                                     </div>
                                     <div class="experience-description col-lg-9 col-sm-7 bg-color-light">
-                                        <h4 class="text-color-dark font-weight-semibold">Chief Product Officer</h4>
-                                        <p class="custom-text-color-2">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam tincidunt nulla tortor, a imperdiet enim tristique nec. Nulla lobortis leo eget metus dapibus sodales. Sed placerat vitae dui vitae vehicula. Quisque in tincidunt ligula, nec dignissim arcu.</p>
+                                        <h4 class="text-color-dark font-weight-semibold">BPJS KESEHATAN KCP. PALEMBANG </h4>
+                                        <p class="custom-text-color-2">Relationship Office:  Melakukan verifikasi dokumen, menginput, mengolah data calon peserta dan klaim serta melakuka n sosialisasi tentang program BPJSK.</p>
                                     </div>
                                 </div>
                             </article>
                             <div class="timeline-bar"></div>
                         </div>
                     </section>
+                </div>
+                <div class="col-lg-12 col-sm-12 pt-4 mt-4 text-center">
+                    <a class="btn btn-primary btn-outline text-color-dark custom-btn-style-2 font-weight-bold custom-border-radius-1 text-uppercase" href="{{url('/all_experience/#experience')}}">View All</a>
                 </div>
             </div>
         </div>
