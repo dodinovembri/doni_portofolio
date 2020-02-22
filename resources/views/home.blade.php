@@ -39,7 +39,7 @@
                                             <li>
                                                 <a data-hash href="#portfolio" class="nav-link text-color-dark bg-color-primary">
                                                     <i class="icon-diamond icons"></i>
-                                                    <span class="custom-tooltip">Portfolio</span>
+                                                    <span class="custom-tooltip">Prestasi</span>
                                                 </a>
                                             </li>
                                             <li>
@@ -87,8 +87,8 @@
                     <p class="text-color-light font-weight-normal custom-font-size-2 custom-margin-bottom-1">Sarjana Administrasi Publik (S.AP)</p>
                     <span class="custom-about-me-infos">
                         <span class="custom-text-color-1 text-uppercase">Kenali, 29 September 1997</span>
-                        <span class="custom-text-color-1 text-uppercase mb-3">Information Technology &amp; Services</span>
-                        <span class="custom-text-color-1 text-uppercase">Public Speaking And Strategi Marketing Media Sosial</span>
+                        <span class="custom-text-color-1 text-uppercase mb-3">PUBLIC SPEAKING, MARKETING, RESEARCH AND DEVELOPMENT</span>
+                        <span class="custom-text-color-1 text-uppercase"></span>
                         <span class="custom-text-color-1 text-uppercase">
                             <strong class="text-color-light">Education: </strong>
                             Universitas Sriwijaya
@@ -225,16 +225,16 @@
                                     <div class="experience-info col-lg-3 col-sm-5 bg-color-primary">
                                         <span class="from text-color-dark text-uppercase">
                                             From
-                                            <span class="font-weight-semibold">2019</span>
+                                            <span class="font-weight-semibold">Feb 2019</span>
                                         </span>
                                         <span class="to text-color-dark text-uppercase">
                                             To
-                                            <span class="font-weight-semibold">Present</span>
+                                            <span class="font-weight-semibold">Des 2019</span>
                                         </span>
-                                        <p class="text-color-dark">(3 Years 9 Months)</p>
+                                        <p class="text-color-dark">(11 Bulan )</p>
                                         <span class="company text-color-dark font-weight-semibold">
-                                            Okler Themes
-                                            <span class="company-location text-color-dark font-weight-normal text-uppercase">Greater New York</span>
+                                            Administration Staff
+                                            <span class="company-location text-color-dark font-weight-normal text-uppercase">Palembang</span>
                                         </span>
                                     </div>
                                     <div class="experience-description col-lg-9 col-sm-7 bg-color-light">
@@ -248,16 +248,16 @@
                                     <div class="experience-info col-lg-3 col-sm-5 bg-color-primary">
                                         <span class="from text-color-dark text-uppercase">
                                             From
-                                            <span class="font-weight-semibold">Sep 2012</span>
+                                            <span class="font-weight-semibold">Jun 2018</span>
                                         </span>
                                         <span class="to text-color-dark text-uppercase">
                                             To
-                                            <span class="font-weight-semibold">Present</span>
+                                            <span class="font-weight-semibold">Jul 2018</span>
                                         </span>
-                                        <p class="text-color-dark">(3 Years 9 Months)</p>
+                                        <p class="text-color-dark">(1 bulan)</p>
                                         <span class="company text-color-dark font-weight-semibold">
-                                            Okler Themes
-                                            <span class="company-location text-color-dark font-weight-normal text-uppercase">Greater New York</span>
+                                            Front Office
+                                            <span class="company-location text-color-dark font-weight-normal text-uppercase">ASIAN GAMES</span>
                                         </span>
                                     </div>
                                     <div class="experience-description col-lg-9 col-sm-7 bg-color-light">
@@ -271,20 +271,20 @@
                                     <div class="experience-info col-lg-3 col-sm-5 bg-color-primary">
                                         <span class="from text-color-dark text-uppercase">
                                             From
-                                            <span class="font-weight-semibold">Sep 2012</span>
+                                            <span class="font-weight-semibold"> Mei 2018</span>
                                         </span>
                                         <span class="to text-color-dark text-uppercase">
                                             To
-                                            <span class="font-weight-semibold">Present</span>
+                                            <span class="font-weight-semibold">Jul 2018 </span>
                                         </span>
-                                        <p class="text-color-dark">(3 Years 9 Months)</p>
+                                        <p class="text-color-dark">(40 Hari)</p>
                                         <span class="company text-color-dark font-weight-semibold">
-                                            Okler Themes
-                                            <span class="company-location text-color-dark font-weight-normal text-uppercase">Greater New York</span>
+                                            Relationship Office
+                                            <span class="company-location text-color-dark font-weight-normal text-uppercase">Palembang</span>
                                         </span>
                                     </div>
                                     <div class="experience-description col-lg-9 col-sm-7 bg-color-light">
-                                        <h4 class="text-color-dark font-weight-semibold">BPJS KESEHATAN KCP. PALEMBANG </h4>
+                                        <h4 class="text-color-dark font-weight-semibold">MAGANG BPJS KESEHATAN KC. PALEMBANG </h4>
                                         <p class="custom-text-color-2">Relationship Office:  Melakukan verifikasi dokumen, menginput, mengolah data calon peserta dan klaim serta melakuka n sosialisasi tentang program BPJSK.</p>
                                     </div>
                                 </div>
@@ -310,53 +310,9 @@
                             <div class="col-lg-6 col-sm-6 pb-4">
                                 <div class="custom-box-details-2 bg-color-light custom-box-shadow-3">
                                     <i class="icon-graduation icons text-color-primary"></i>
-                                    <h4 class="font-weight-semibold text-color-dark m-0">Porto University</h4>
-                                    <p class="custom-text-color-2 mb-1">Master of Information Technology</p>
-                                    <strong class="text-color-primary">2001-2017</strong>
-                                </div>
-                            </div>
-                            <div class="col-lg-6 col-sm-6 pb-4">
-                                <div class="custom-box-details-2 bg-color-light custom-box-shadow-3">
-                                    <i class="icon-graduation icons text-color-primary"></i>
-                                    <h4 class="font-weight-semibold text-color-dark m-0">Porto University</h4>
-                                    <p class="custom-text-color-2 mb-1">Master of Information Technology</p>
-                                    <strong class="text-color-primary">2001-2017</strong>
-                                </div>
-                            </div>
-                        </div>
-                        <div class="row">
-                            <div class="col-lg-6 col-sm-6 pb-4">
-                                <div class="custom-box-details-2 bg-color-light custom-box-shadow-3">
-                                    <i class="icon-graduation icons text-color-primary"></i>
-                                    <h4 class="font-weight-semibold text-color-dark m-0">Porto University</h4>
-                                    <p class="custom-text-color-2 mb-1">Master of Information Technology</p>
-                                    <strong class="text-color-primary">2001-2017</strong>
-                                </div>
-                            </div>
-                            <div class="col-lg-6 col-sm-6 pb-4">
-                                <div class="custom-box-details-2 bg-color-light custom-box-shadow-3">
-                                    <i class="icon-graduation icons text-color-primary"></i>
-                                    <h4 class="font-weight-semibold text-color-dark m-0">Porto University</h4>
-                                    <p class="custom-text-color-2 mb-1">Master of Information Technology</p>
-                                    <strong class="text-color-primary">2001-2017</strong>
-                                </div>
-                            </div>
-                        </div>
-                        <div class="row">
-                            <div class="col-lg-6 col-sm-6 pb-4">
-                                <div class="custom-box-details-2 bg-color-light custom-box-shadow-3">
-                                    <i class="icon-graduation icons text-color-primary"></i>
-                                    <h4 class="font-weight-semibold text-color-dark m-0">Porto University</h4>
-                                    <p class="custom-text-color-2 mb-1">Master of Information Technology</p>
-                                    <strong class="text-color-primary">2001-2017</strong>
-                                </div>
-                            </div>
-                            <div class="col-lg-6 col-sm-6 pb-4">
-                                <div class="custom-box-details-2 bg-color-light custom-box-shadow-3">
-                                    <i class="icon-graduation icons text-color-primary"></i>
-                                    <h4 class="font-weight-semibold text-color-dark m-0">Porto University</h4>
-                                    <p class="custom-text-color-2 mb-1">Master of Information Technology</p>
-                                    <strong class="text-color-primary">2001-2017</strong>
+                                    <h4 class="font-weight-semibold text-color-dark m-0">Universitas Sriwajaya</h4>
+                                    <p class="custom-text-color-2 mb-1">Sarjana Administrasi Publik (S.AP)</p>
+                                    <strong class="text-color-primary">2015-2019</strong>
                                 </div>
                             </div>
                         </div>
@@ -375,26 +331,26 @@
                             <h2 class="text-color-quaternary text-uppercase font-weight-extra-bold">Skills & Language</h2>
                             <div class="progress-bars custom-progress-bars">
                                 <div class="progress-label text-color-dark font-weight-semibold text-uppercase text-2">
-                                    <span>Start Up</span>
+                                    <span>Ms. Office</span>
                                 </div>
 
                                 <div class="progress mb-2">
                                     <div class="progress-bar" data-appear-progress-animation="60%"></div>
                                 </div>
                                 <div class="progress-label text-color-dark font-weight-semibold text-uppercase text-2">
-                                    <span>Innovation</span>
+                                    <span>Presentation</span>
                                 </div>
                                 <div class="progress mb-2">
                                     <div class="progress-bar" data-appear-progress-animation="80%" data-appear-animation-delay="300"></div>
                                 </div>
                                 <div class="progress-label text-color-dark font-weight-semibold text-uppercase text-2">
-                                    <span>Products</span>
+                                    <span>Photo Editing</span>
                                 </div>
                                 <div class="progress mb-2">
                                     <div class="progress-bar" data-appear-progress-animation="70%" data-appear-animation-delay="600"></div>
                                 </div>
                                 <div class="progress-label text-color-dark font-weight-semibold text-uppercase text-2">
-                                    <span>CSS</span>
+                                    <span>Layout Design</span>
                                 </div>
                                 <div class="progress mb-2">
                                     <div class="progress-bar" data-appear-progress-animation="90%" data-appear-animation-delay="900"></div>
@@ -404,7 +360,7 @@
                         <div class="col-lg-6">
                             <div class="progress-bars custom-progress-bars custom-md-margin-top-1">
                                 <div class="progress-label text-color-dark font-weight-semibold text-uppercase text-2">
-                                    <span>Javascript</span>
+                                    <span>Administrator</span>
                                 </div>
                                 <div class="progress mb-2">
                                     <div class="progress-bar" data-appear-progress-animation="60%"></div>
@@ -416,13 +372,13 @@
                                     <div class="progress-bar" data-appear-progress-animation="80%" data-appear-animation-delay="300"></div>
                                 </div>
                                 <div class="progress-label text-color-dark font-weight-semibold text-uppercase text-2">
-                                    <span>E-commerce</span>
+                                    <span>Video Editing</span>
                                 </div>
                                 <div class="progress mb-2">
                                     <div class="progress-bar" data-appear-progress-animation="70%" data-appear-animation-delay="600"></div>
                                 </div>
                                 <div class="progress-label text-color-dark font-weight-semibold text-uppercase text-2">
-                                    <span>Creative</span>
+                                    <span>R & D</span>
                                 </div>
                                 <div class="progress mb-2">
                                     <div class="progress-bar" data-appear-progress-animation="90%" data-appear-animation-delay="900"></div>
@@ -438,16 +394,12 @@
                                 <h4 class="text-color-dark">Languages</h4>
                                 <ul class="custom-list-style-1 p-0">
                                     <li>
+                                        <span class="font-weight-semibold custom-max-width-1 text-color-dark"><img src="{{asset('tmp/img/blank.gif')}}" class="flag flag-us mr-1" alt="English">Indonesia:</span>
+                                        <span class="custom-text-color-2">Advanced</span>
+                                    </li>
+                                    <li>
                                         <span class="font-weight-semibold custom-max-width-1 text-color-dark"><img src="{{asset('tmp/img/blank.gif')}}" class="flag flag-us mr-1" alt="English">English:</span>
-                                        <span class="custom-text-color-2">Advanced</span>
-                                    </li>
-                                    <li>
-                                        <span class="font-weight-semibold custom-max-width-1 text-color-dark"><img src="{{asset('tmp/img/blank.gif')}}" class="flag flag-es mr-1" alt="Spanish">Spanish:</span>
-                                        <span class="custom-text-color-2">Advanced</span>
-                                    </li>
-                                    <li>
-                                        <span class="font-weight-semibold custom-max-width-1 text-color-dark"><img src="{{asset('tmp/img/blank.gif')}}" class="flag flag-fr mr-1" alt="Française">French:</span>
-                                        <span class="custom-text-color-2">Basic</span>
+                                        <span class="custom-text-color-2">Intermediete</span>
                                     </li>
                                 </ul>
                             </div>
@@ -458,22 +410,82 @@
         </div>
     </section>
 
-    <section id="portfolio" class="section section-no-border bg-color-secondary m-0">
+<section class="section section-no-border bg-color-secondary m-0">
+</section>
+
+<section id="portfolio" class="section section-no-border bg-color-light m-0">
+    <div class="container pt-2 pb-4">
+
+                        <div class="row pb-4 mb-2">
+                            <div class="col-md-6 mb-4 mb-md-0 appear-animation animated fadeInLeftShorter appear-animation-visible" data-appear-animation="fadeInLeftShorter" data-appear-animation-delay="300" style="animation-delay: 300ms;">
+
+                                <div class="owl-carousel owl-theme nav-inside nav-inside-edge nav-squared nav-with-transparency nav-dark mt-3 owl-loaded owl-drag owl-carousel-init" data-plugin-options="{'items': 1, 'margin': 10, 'loop': false, 'nav': true, 'dots': false}" style="height: auto;">
+                                    
+                                    
+                                    
+                                <div class="owl-stage-outer"><div class="owl-stage" style="transform: translate3d(-340px, 0px, 0px); transition: all 0s ease 0s; width: 1020px;"><div class="owl-item" style="width: 330px; margin-right: 10px;"><div>
+                                        <div class="img-thumbnail border-0 border-radius-0 p-0 d-block">
+                                            <img src="{{asset('tmp/img/projects/1.jpeg')}}" class="img-fluid border-radius-0" alt="">
+                                        </div>
+                                    </div></div><div class="owl-item active" style="width: 330px; margin-right: 10px;"><div>
+                                        <div class="img-thumbnail border-0 border-radius-0 p-0 d-block">
+                                            <img src="{{asset('tmp/img/projects/2.jpeg')}}" class="img-fluid border-radius-0" alt="">
+                                        </div>
+                                    </div></div><div class="owl-item" style="width: 330px; margin-right: 10px;"><div>
+                                        <div class="img-thumbnail border-0 border-radius-0 p-0 d-block">
+                                            <img src="{{asset('tmp/img/projects/3.jpeg')}}" class="img-fluid border-radius-0" alt="">
+                                        </div>
+                                    </div></div></div></div><div class="owl-nav"><button type="button" role="presentation" class="owl-prev"></button><button type="button" role="presentation" class="owl-next"></button></div><div class="owl-dots disabled"></div></div>
+
+                                <hr class="solid my-5 appear-animation animated fadeIn appear-animation-visible" data-appear-animation="fadeIn" data-appear-animation-delay="1000" style="animation-delay: 1000ms;">
+
+                                <div class="appear-animation animated fadeInRightShorter appear-animation-visible" data-appear-animation="fadeInRightShorter" data-appear-animation-delay="1100" style="animation-delay: 1100ms;">
+                                    <strong class="text-uppercase text-1 mr-3 text-dark float-left position-relative top-2">Share</strong>
+                                    <ul class="social-icons">
+                                        <li class="social-icons-facebook"><a href="http://www.facebook.com/" target="_blank" title="Facebook"><i class="fab fa-facebook-f"></i></a></li>
+                                        <li class="social-icons-twitter"><a href="http://www.twitter.com/" target="_blank" title="Twitter"><i class="fab fa-twitter"></i></a></li>
+                                        <li class="social-icons-linkedin"><a href="http://www.linkedin.com/" target="_blank" title="Linkedin"><i class="fab fa-linkedin-in"></i></a></li>
+                                    </ul>
+                                </div>
+
+                            </div>
+                            <div class="col-md-6">
+                                <div class="overflow-hidden">
+                                    <h2 class="text-color-dark font-weight-normal text-4 mb-0 appear-animation animated maskUp appear-animation-visible" data-appear-animation="maskUp" data-appear-animation-delay="600" style="animation-delay: 600ms;"><strong class="font-weight-extra-bold">International Conference</strong></h2>
+                                </div>
+                                <p class="appear-animation animated fadeInUpShorter appear-animation-visible" data-appear-animation="fadeInUpShorter" data-appear-animation-delay="800" style="animation-delay: 800ms;">Best Presentation in International Conference on Social Entrepreneurship, Economics and Management Studies, Osaka Japan.</p>
+
+                                <div class="overflow-hidden mt-4">
+                                    <h2 class="text-color-dark font-weight-normal text-4 mb-0 appear-animation animated maskUp appear-animation-visible" data-appear-animation="maskUp" data-appear-animation-delay="1000" style="animation-delay: 1000ms;">Information <strong class="font-weight-extra-bold">Details</strong></h2>
+                                </div>
+                                <ul class="list list-icons list-primary list-borders text-2 appear-animation animated fadeInUpShorter appear-animation-visible" data-appear-animation="fadeInUpShorter" data-appear-animation-delay="1200" style="animation-delay: 1200ms;">
+                                    <li><i class="fas fa-caret-right left-10"></i> <strong class="text-color-primary">Pelaksana:</strong> MRRDS</li>
+                                    <li><i class="fas fa-caret-right left-10"></i> <strong class="text-color-primary">Date:</strong> April 2019</li>
+                                    <li><i class="fas fa-caret-right left-10"></i> <strong class="text-color-primary">Skills:</strong> <a href="#" class="badge badge-dark badge-sm badge-pill px-2 py-1 ml-1">Author</a><a href="#" class="badge badge-dark badge-sm badge-pill px-2 py-1 ml-1">Presenter</a></li>
+                                </ul>
+                            </div>
+                            <div class="col-lg-12 col-sm-12 pt-4 mt-4 text-center">
+                                <a class="btn btn-primary btn-outline text-color-dark custom-btn-style-2 font-weight-bold custom-border-radius-1 text-uppercase" href="{{url('all_prestasi/#prestasi')}}">View All</a>
+                            </div>
+                        </div>
+    </div>
+</section>
+<!--     <section id="portfolio" class="section section-no-border bg-color-secondary m-0">
         <div class="container">
             <div class="row">
                 <div class="col">
                     <h2 class="text-color-quaternary font-weight-extra-bold text-uppercase">Portfolio</h2>
                     <ul class="nav nav-pills sort-source custom-nav-sort mb-4" data-sort-id="portfolio" data-option-key="filter">
                         <li class="nav-item active" data-option-value="*"><a class="nav-link text-dark active" href="#">Show All</a></li>
-                        <li class="nav-item" data-option-value=".websites"><a class="nav-link text-dark" href="#">Websites</a></li>
-                        <li class="nav-item" data-option-value=".logos"><a class="nav-link text-dark" href="#">Logos</a></li>
-                        <li class="nav-item" data-option-value=".brands"><a class="nav-link text-dark" href="#">Brands</a></li>
+                        <li class="nav-item" data-option-value=".websites"><a class="nav-link text-dark" href="#">Karya Tulis</a></li>
+                        <li class="nav-item" data-option-value=".logos"><a class="nav-link text-dark" href="#">Enterprenuer</a></li>
+                        <li class="nav-item" data-option-value=".brands"><a class="nav-link text-dark" href="#">Delegasi</a></li>
                     </ul>
                     <div class="sort-destination-loader sort-destination-loader-showing">
                         <div class="row image-gallery sort-destination lightbox" data-sort-id="portfolio" data-plugin-options="{'delegate': 'a.lightbox-portfolio', 'type': 'image', 'gallery': {'enabled': true}}">
                             <div class="col-12 col-sm-6 col-lg-3 isotope-item websites">
                                 <div class="image-gallery-item mb-4 pb-3">
-                                    <a href="img/demos/resume/portfolio/portfolio-1.jpg" class="lightbox-portfolio">
+                                    <a href="#" data-toggle="modal" data-target="#largeModal" class="lightbox-portfolio">
                                         <span class="thumb-info custom-thumb-info-1">
                                             <span class="thumb-info-wrapper">
                                                 <span class="thumb-info-plus"></span>
@@ -481,6 +493,23 @@
                                             </span>
                                         </span>
                                     </a>
+                                    <div class="modal fade" id="largeModal" tabindex="-1" role="dialog" aria-labelledby="largeModalLabel" aria-hidden="true">
+                                        <div class="modal-dialog modal-lg">
+                                            <div class="modal-content">
+                                                <div class="modal-header">
+                                                    <h4 class="modal-title" id="largeModalLabel">Large Modal Title</h4>
+                                                    <button type="button" class="close" data-dismiss="modal" aria-hidden="true">&times;</button>
+                                                </div>
+                                                <div class="modal-body">
+                                                    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur pellentesque neque eget diam posuere porta. Quisque ut nulla at nunc <a href="#">vehicula</a> lacinia. Proin adipiscing porta tellus, ut feugiat nibh adipiscing sit amet. In eu justo a felis faucibus ornare vel id metus. Vestibulum ante ipsum primis in faucibus.</p>
+                                                    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur pellentesque neque eget diam posuere porta. Quisque ut nulla at nunc <a href="#">vehicula</a> lacinia. Proin adipiscing porta tellus, ut feugiat nibh adipiscing sit amet. In eu justo a felis faucibus ornare vel id metus. Vestibulum ante ipsum primis in faucibus.</p>
+                                                </div>
+                                                <div class="modal-footer">
+                                                    <button type="button" class="btn btn-light" data-dismiss="modal">Close</button>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>                                    
                                 </div>
                             </div>
                             <div class="col-12 col-sm-6 col-lg-3 isotope-item logos">
@@ -572,8 +601,9 @@
                 </div>
             </div>
         </div>
-    </section>
-
+    </section> -->
+<section class="section section-no-border bg-color-secondary m-0">
+</section>
     <section id="recommendations" class="section section-no-border bg-color-primary m-0">
         <div class="container">
             <div class="row">
@@ -745,25 +775,25 @@
                 <section class="section section-no-border h-100 m-0" style="background: url({{asset('tmp/img/demos/resume/contact/contact-bg-1.jpg')}}); background-size: cover;">
                     <div class="row m-0">
                         <div class="col-half-section col-half-section-left ml-3">
-                            <a href="mailto:you@domain.com" class="text-decoration-none">
+                            <a href="mailto:donifirnando97@gmail.com" class="text-decoration-none">
                                 <span class="feature-box custom-feature-box align-items-center mb-4">
                                     <span class="custom-feature-box-icon">
                                         <i class="icon-envelope icons text-color-light"></i>
                                     </span>
                                     <span class="feature-box-info">
                                         <span class="custom-label font-weight-semibold text-uppercase custom-text-color-1">Email</span>
-                                        <strong class="font-weight-light text-color-light custom-opacity-effect-1">you@domain.com</strong>
+                                        <strong class="font-weight-light text-color-light custom-opacity-effect-1">donifirnando97@gmail.com</strong>
                                     </span>
                                 </span>
                             </a>
-                            <a href="tel:+1234657890" class="text-decoration-none">
+                            <a href="tel:+6282269218380" class="text-decoration-none">
                                 <span class="feature-box custom-feature-box align-items-center mb-4">
                                     <span class="custom-feature-box-icon">
                                         <i class="icon-phone icons text-color-light"></i>
                                     </span>
                                     <span class="feature-box-info">
                                         <span class="custom-label font-weight-semibold text-uppercase custom-text-color-1">Phone</span>
-                                        <strong class="font-weight-light text-color-light custom-opacity-effect-1">123-456-7890</strong>
+                                        <strong class="font-weight-light text-color-light custom-opacity-effect-1">+6282269218380</strong>
                                     </span>
                                 </span>
                             </a>
@@ -773,8 +803,8 @@
                                         <i class="icon-social-skype icons text-color-light"></i>
                                     </span>
                                     <span class="feature-box-info">
-                                        <span class="custom-label font-weight-semibold text-uppercase custom-text-color-1">Skype</span>
-                                        <strong class="font-weight-light text-color-light custom-opacity-effect-1">yourskype</strong>
+                                        <span class="custom-label font-weight-semibold text-uppercase custom-text-color-1">Linkedin</span>
+                                        <strong class="font-weight-light text-color-light custom-opacity-effect-1">Doni Firnando</strong>
                                     </span>
                                 </span>
                             </a>
@@ -782,18 +812,18 @@
                                 <span class="custom-feature-box-icon">
                                     <i class="icon-share icons text-color-light"></i>
                                 </span>
-                                <a href="http://www.facebook.com" class="d-flex text-decoration-none">
+                                <a href="http://www.facebook.com/doni.bella.7" target="_blank" class="d-flex text-decoration-none">
                                     <span class="feature-box-info">
                                         <span class="custom-label font-weight-semibold text-uppercase custom-text-color-1">Follow me</span>
                                         <strong class="font-weight-light text-color-light custom-opacity-effect-1">Facebook</strong>
                                     </span>
                                 </a>
-                                <a href="http://www.twitter.com" class="d-flex text-decoration-none">
+                                <a href="http://www.twitter.com/doni_firnando" target="_blank" class="d-flex text-decoration-none">
                                     <span class="feature-box-info custom-both-side-border mt-2">
                                         <strong class="font-weight-light text-color-light custom-opacity-effect-1">Twitter</strong>
                                     </span>
                                 </a>
-                                <a href="http://www.linkedin.com" class="d-flex text-decoration-none">
+                                <a href="https://www.linkedin.com/in/doni-firnando-718b9b113/" target="_blank" class="d-flex text-decoration-none">
                                     <span class="feature-box-info p-0 mt-2">
                                         <strong class="font-weight-light text-color-light custom-opacity-effect-1">Linkedin</strong>
                                     </span>

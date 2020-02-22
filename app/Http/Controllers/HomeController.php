@@ -31,4 +31,10 @@ class HomeController extends Controller
         # code...
         return view('frontend.all_experience');
     }
+
+    public function all_prestasi()
+    {
+        # code...
+        return view('frontend.all_prestasi');
+    }    
 }

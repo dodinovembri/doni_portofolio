@@ -189,16 +189,16 @@
                                     <div class="experience-info col-lg-3 col-sm-5 bg-color-primary">
                                         <span class="from text-color-dark text-uppercase">
                                             From
-                                            <span class="font-weight-semibold">2019</span>
+                                            <span class="font-weight-semibold">Feb 2019</span>
                                         </span>
                                         <span class="to text-color-dark text-uppercase">
                                             To
-                                            <span class="font-weight-semibold">Present</span>
+                                            <span class="font-weight-semibold">Des 2019</span>
                                         </span>
-                                        <p class="text-color-dark">(3 Years 9 Months)</p>
+                                        <p class="text-color-dark">(11 Bulan )</p>
                                         <span class="company text-color-dark font-weight-semibold">
-                                            Okler Themes
-                                            <span class="company-location text-color-dark font-weight-normal text-uppercase">Greater New York</span>
+                                            Administration Staff
+                                            <span class="company-location text-color-dark font-weight-normal text-uppercase">Palembang</span>
                                         </span>
                                     </div>
                                     <div class="experience-description col-lg-9 col-sm-7 bg-color-light">
@@ -212,16 +212,16 @@
                                     <div class="experience-info col-lg-3 col-sm-5 bg-color-primary">
                                         <span class="from text-color-dark text-uppercase">
                                             From
-                                            <span class="font-weight-semibold">Sep 2012</span>
+                                            <span class="font-weight-semibold">Jun 2018</span>
                                         </span>
                                         <span class="to text-color-dark text-uppercase">
                                             To
-                                            <span class="font-weight-semibold">Present</span>
+                                            <span class="font-weight-semibold">Jul 2018</span>
                                         </span>
-                                        <p class="text-color-dark">(3 Years 9 Months)</p>
+                                        <p class="text-color-dark">(1 bulan)</p>
                                         <span class="company text-color-dark font-weight-semibold">
-                                            Okler Themes
-                                            <span class="company-location text-color-dark font-weight-normal text-uppercase">Greater New York</span>
+                                            Front Office
+                                            <span class="company-location text-color-dark font-weight-normal text-uppercase">ASIAN GAMES</span>
                                         </span>
                                     </div>
                                     <div class="experience-description col-lg-9 col-sm-7 bg-color-light">
@@ -235,20 +235,20 @@
                                     <div class="experience-info col-lg-3 col-sm-5 bg-color-primary">
                                         <span class="from text-color-dark text-uppercase">
                                             From
-                                            <span class="font-weight-semibold">Sep 2012</span>
+                                            <span class="font-weight-semibold"> Mei 2018</span>
                                         </span>
                                         <span class="to text-color-dark text-uppercase">
                                             To
-                                            <span class="font-weight-semibold">Present</span>
+                                            <span class="font-weight-semibold">Jul 2018 </span>
                                         </span>
-                                        <p class="text-color-dark">(3 Years 9 Months)</p>
+                                        <p class="text-color-dark">(40 Hari)</p>
                                         <span class="company text-color-dark font-weight-semibold">
-                                            Okler Themes
-                                            <span class="company-location text-color-dark font-weight-normal text-uppercase">Greater New York</span>
+                                            Relationship Office
+                                            <span class="company-location text-color-dark font-weight-normal text-uppercase">Palembang</span>
                                         </span>
                                     </div>
                                     <div class="experience-description col-lg-9 col-sm-7 bg-color-light">
-                                        <h4 class="text-color-dark font-weight-semibold">BPJS KESEHATAN KCP. PALEMBANG </h4>
+                                        <h4 class="text-color-dark font-weight-semibold">MAGANG BPJS KESEHATAN KC. PALEMBANG </h4>
                                         <p class="custom-text-color-2">Relationship Office:  Melakukan verifikasi dokumen, menginput, mengolah data calon peserta dan klaim serta melakuka n sosialisasi tentang program BPJSK.</p>
                                     </div>
                                 </div>
@@ -258,21 +258,21 @@
                                     <div class="experience-info col-lg-3 col-sm-5 bg-color-primary">
                                         <span class="from text-color-dark text-uppercase">
                                             From
-                                            <span class="font-weight-semibold">Sep 2012</span>
+                                            <span class="font-weight-semibold">Sep 2018</span>
                                         </span>
                                         <span class="to text-color-dark text-uppercase">
                                             To
-                                            <span class="font-weight-semibold">Present</span>
+                                            <span class="font-weight-semibold">Apr 2019</span>
                                         </span>
-                                        <p class="text-color-dark">(3 Years 9 Months)</p>
+                                        <p class="text-color-dark">(7 Bulan)</p>
                                         <span class="company text-color-dark font-weight-semibold">
-                                            Okler Themes
-                                            <span class="company-location text-color-dark font-weight-normal text-uppercase">Greater New York</span>
+                                            Co-Author and Finishing
+                                            <span class="company-location text-color-dark font-weight-normal text-uppercase">Kabupaten OKI</span>
                                         </span>
                                     </div>
                                     <div class="experience-description col-lg-9 col-sm-7 bg-color-light">
                                         <h4 class="text-color-dark font-weight-semibold">TIM PENELITIAN DOSEN</h4>
-                                        <p class="custom-text-color-2"></p>
+                                        <p class="custom-text-color-2">Meneliti tentang lingkungan dengan tofik Kebakaran Hutan dan Lahan.</p>
                                     </div>
                                 </div>
                             </article>    
@@ -281,21 +281,21 @@
                                     <div class="experience-info col-lg-3 col-sm-5 bg-color-primary">
                                         <span class="from text-color-dark text-uppercase">
                                             From
-                                            <span class="font-weight-semibold">Sep 2012</span>
+                                            <span class="font-weight-semibold">Jan 2018</span>
                                         </span>
                                         <span class="to text-color-dark text-uppercase">
                                             To
-                                            <span class="font-weight-semibold">Present</span>
+                                            <span class="font-weight-semibold">Mar 2019</span>
                                         </span>
-                                        <p class="text-color-dark">(3 Years 9 Months)</p>
+                                        <p class="text-color-dark">(1 Tahun 3 Bulan)</p>
                                         <span class="company text-color-dark font-weight-semibold">
-                                            Okler Themes
-                                            <span class="company-location text-color-dark font-weight-normal text-uppercase">Greater New York</span>
+                                            Kabid. Kajian Isu
+                                            <span class="company-location text-color-dark font-weight-normal text-uppercase">FISIP Universitas Sriwijaya</span>
                                         </span>
                                     </div>
                                     <div class="experience-description col-lg-9 col-sm-7 bg-color-light">
                                         <h4 class="text-color-dark font-weight-semibold">ASISTEN LABORATORIUM ADMINISTRASI PUBLIK</h4>
-                                        <p class="custom-text-color-2"></p>
+                                        <p class="custom-text-color-2">Menjalankan kegiatan laboratorium, memberikan berbagai pelatihan, pengkajian isu dan bedah buku.</p>
                                     </div>
                                 </div>
                             </article>                                                                                                          
@@ -304,6 +304,106 @@
                     </section>
 
                     <h2 class="text-color-quaternary text-uppercase font-weight-extra-bold">Organisasi</h2>
+                    <section class="timeline custom-timeline" id="timeline">
+                        <div class="timeline-body">
+                            <article class="timeline-box right custom-box-shadow-2">
+                                <div class="row">
+                                    <div class="experience-info col-lg-3 col-sm-5 bg-color-primary">
+                                        <span class="from text-color-dark text-uppercase">
+                                            From
+                                            <span class="font-weight-semibold">Jan 2017</span>
+                                        </span>
+                                        <span class="to text-color-dark text-uppercase">
+                                            To
+                                            <span class="font-weight-semibold">Des 2017</span>
+                                        </span>
+                                        <p class="text-color-dark">(1 Tahun)</p>
+                                        <span class="company text-color-dark font-weight-semibold">
+                                            Ketua Umum
+                                            <span class="company-location text-color-dark font-weight-normal text-uppercase">Lampung-Palembang</span>
+                                        </span>
+                                    </div>
+                                    <div class="experience-description col-lg-9 col-sm-7 bg-color-light">
+                                        <h4 class="text-color-dark font-weight-semibold">IKATAN KELUARGA MAHASISWA SAI BATAIN </h4>
+                                        <p class="custom-text-color-2">Ketua Umum: Memimpin, mengkoordinir, berkomunikasi dan Bernegosiasi.</p>
+                                    </div>
+                                </div>
+                            </article>  
+                            <article class="timeline-box right custom-box-shadow-2">
+                                <div class="row">
+                                    <div class="experience-info col-lg-3 col-sm-5 bg-color-primary">
+                                        <span class="from text-color-dark text-uppercase">
+                                            From
+                                            <span class="font-weight-semibold">Sep 2016</span>
+                                        </span>
+                                        <span class="to text-color-dark text-uppercase">
+                                            To
+                                            <span class="font-weight-semibold">Sep 2017</span>
+                                        </span>
+                                        <p class="text-color-dark">(1 Tahun)</p>
+                                        <span class="company text-color-dark font-weight-semibold">
+                                            Staf Khusus HRD
+                                            <span class="company-location text-color-dark font-weight-normal text-uppercase">Universitas Sriwijaya</span>
+                                        </span>
+                                    </div>
+                                    <div class="experience-description col-lg-9 col-sm-7 bg-color-light">
+                                        <h4 class="text-color-dark font-weight-semibold">UKM-UNSRI RISET DAN EDUKASI UNIVERSITAS SRIWIJAYA </h4>
+                                        <p class="custom-text-color-2">Staff Khusus HRD: Berhasil membuat inovasi perekrutan dan mempertahankan 90% dari jumlah anggota yang bergabung.</p>
+                                    </div>
+                                </div>
+                            </article> 
+                            <article class="timeline-box right custom-box-shadow-2">
+                                <div class="row">
+                                    <div class="experience-info col-lg-3 col-sm-5 bg-color-primary">
+                                        <span class="from text-color-dark text-uppercase">
+                                            From
+                                            <span class="font-weight-semibold">Jan 2018</span>
+                                        </span>
+                                        <span class="to text-color-dark text-uppercase">
+                                            To
+                                            <span class="font-weight-semibold">Des 2018</span>
+                                        </span>
+                                        <p class="text-color-dark">(1 Tahun)</p>
+                                        <span class="company text-color-dark font-weight-semibold">
+                                            Manager HRD
+                                            <span class="company-location text-color-dark font-weight-normal text-uppercase">Badan Otonom FISIP</span>
+                                        </span>
+                                    </div>
+                                    <div class="experience-description col-lg-9 col-sm-7 bg-color-light">
+                                        <h4 class="text-color-dark font-weight-semibold">BADAN KEILMIAHAN COGITO FISIP UNIVERSITAS SRIWIJAYA  </h4>
+                                        <p class="custom-text-color-2">Manager HRD: Merekrut, membina, mengkaryakan, mengembangkan dan menjaga angggota..</p>
+                                    </div>
+                                </div>
+                            </article>                                      
+                            <article class="timeline-box right custom-box-shadow-2">
+                                <div class="row">
+                                    <div class="experience-info col-lg-3 col-sm-5 bg-color-primary">
+                                        <span class="from text-color-dark text-uppercase">
+                                            From
+                                            <span class="font-weight-semibold">Jan 2016</span>
+                                        </span>
+                                        <span class="to text-color-dark text-uppercase">
+                                            To
+                                            <span class="font-weight-semibold">Des 2016</span>
+                                        </span>
+                                        <p class="text-color-dark">(1 Tahun)</p>
+                                        <span class="company text-color-dark font-weight-semibold">
+                                            Kadept. Kaderisasi
+                                            <span class="company-location text-color-dark font-weight-normal text-uppercase">FISIP</span>
+                                        </span>
+                                    </div>
+                                    <div class="experience-description col-lg-9 col-sm-7 bg-color-light">
+                                        <h4 class="text-color-dark font-weight-semibold">LDF WAHANA KEROHANIAN ISLAM FISIP UNSRI  </h4>
+                                        <p class="custom-text-color-2">Kepala Departemen Kaderisasi: Membina kader dan menyediakan pelatihan untuk pengetahuan kader</p>
+                                    </div>
+                                </div>
+                            </article>                                                                  
+                            <div class="timeline-bar"></div>
+                        </div>
+                    </section>  
+
+
+                    <h2 class="text-color-quaternary text-uppercase font-weight-extra-bold">WORKSHOP AND TRAINING</h2>
                     <section class="timeline custom-timeline" id="timeline">
                         <div class="timeline-body">
                             <article class="timeline-box right custom-box-shadow-2">
@@ -324,8 +424,8 @@
                                         </span>
                                     </div>
                                     <div class="experience-description col-lg-9 col-sm-7 bg-color-light">
-                                        <h4 class="text-color-dark font-weight-semibold">KETUA UMUM IKATAN KELUARGA MAHASISWA SAI BATAIN </h4>
-                                        <p class="custom-text-color-2">Ketua Umum: Memimpin, mengkoordinir, berkomunikasi dan Bernegosiasi.</p>
+                                        <h4 class="text-color-dark font-weight-semibold">Seminar BPJS Ketenagakerjaan</h4>
+                                        <p class="custom-text-color-2"></p>
                                     </div>
                                 </div>
                             </article>  
@@ -347,14 +447,154 @@
                                         </span>
                                     </div>
                                     <div class="experience-description col-lg-9 col-sm-7 bg-color-light">
-                                        <h4 class="text-color-dark font-weight-semibold">UKM-UNSRI RISET DAN EDUKASI UNIVERSITAS SRIWIJAYA </h4>
-                                        <p class="custom-text-color-2">Staff Khusus HRD: Berhasil membuat inovasi perekrutan dan mempertahankan 90% dari jumlah anggota yang bergabung.</p>
+                                        <h4 class="text-color-dark font-weight-semibold">Workshop Jurnalistik Kompas TV, HarianKompas</h4>
+                                        <p class="custom-text-color-2"></p>
                                     </div>
                                 </div>
-                            </article>          
+                            </article> 
+                            <article class="timeline-box right custom-box-shadow-2">
+                                <div class="row">
+                                    <div class="experience-info col-lg-3 col-sm-5 bg-color-primary">
+                                        <span class="from text-color-dark text-uppercase">
+                                            From
+                                            <span class="font-weight-semibold">Sep 2012</span>
+                                        </span>
+                                        <span class="to text-color-dark text-uppercase">
+                                            To
+                                            <span class="font-weight-semibold">Present</span>
+                                        </span>
+                                        <p class="text-color-dark">(3 Years 9 Months)</p>
+                                        <span class="company text-color-dark font-weight-semibold">
+                                            Okler Themes
+                                            <span class="company-location text-color-dark font-weight-normal text-uppercase">Greater New York</span>
+                                        </span>
+                                    </div>
+                                    <div class="experience-description col-lg-9 col-sm-7 bg-color-light">
+                                        <h4 class="text-color-dark font-weight-semibold">Seminar Kewirausahaan Berinovasi, Berkreasi dan Berbisnis</h4>
+                                        <p class="custom-text-color-2"></p>
+                                    </div>
+                                </div>
+                            </article>  
+                            <article class="timeline-box right custom-box-shadow-2">
+                                <div class="row">
+                                    <div class="experience-info col-lg-3 col-sm-5 bg-color-primary">
+                                        <span class="from text-color-dark text-uppercase">
+                                            From
+                                            <span class="font-weight-semibold">Sep 2012</span>
+                                        </span>
+                                        <span class="to text-color-dark text-uppercase">
+                                            To
+                                            <span class="font-weight-semibold">Present</span>
+                                        </span>
+                                        <p class="text-color-dark">(3 Years 9 Months)</p>
+                                        <span class="company text-color-dark font-weight-semibold">
+                                            Okler Themes
+                                            <span class="company-location text-color-dark font-weight-normal text-uppercase">Greater New York</span>
+                                        </span>
+                                    </div>
+                                    <div class="experience-description col-lg-9 col-sm-7 bg-color-light">
+                                        <h4 class="text-color-dark font-weight-semibold">Moderator FGD INTRO UKM-UnsriRiset Dan Edukasi</h4>
+                                        <p class="custom-text-color-2"></p>
+                                    </div>
+                                </div>
+                            </article>  
+                            <article class="timeline-box right custom-box-shadow-2">
+                                <div class="row">
+                                    <div class="experience-info col-lg-3 col-sm-5 bg-color-primary">
+                                        <span class="from text-color-dark text-uppercase">
+                                            From
+                                            <span class="font-weight-semibold">Sep 2012</span>
+                                        </span>
+                                        <span class="to text-color-dark text-uppercase">
+                                            To
+                                            <span class="font-weight-semibold">Present</span>
+                                        </span>
+                                        <p class="text-color-dark">(3 Years 9 Months)</p>
+                                        <span class="company text-color-dark font-weight-semibold">
+                                            Okler Themes
+                                            <span class="company-location text-color-dark font-weight-normal text-uppercase">Greater New York</span>
+                                        </span>
+                                    </div>
+                                    <div class="experience-description col-lg-9 col-sm-7 bg-color-light">
+                                        <h4 class="text-color-dark font-weight-semibold">Moderator Seminar PKM dan Public Speaking</h4>
+                                        <p class="custom-text-color-2"></p>
+                                    </div>
+                                </div>
+                            </article>  
+                            <article class="timeline-box right custom-box-shadow-2">
+                                <div class="row">
+                                    <div class="experience-info col-lg-3 col-sm-5 bg-color-primary">
+                                        <span class="from text-color-dark text-uppercase">
+                                            From
+                                            <span class="font-weight-semibold">Sep 2012</span>
+                                        </span>
+                                        <span class="to text-color-dark text-uppercase">
+                                            To
+                                            <span class="font-weight-semibold">Present</span>
+                                        </span>
+                                        <p class="text-color-dark">(3 Years 9 Months)</p>
+                                        <span class="company text-color-dark font-weight-semibold">
+                                            Okler Themes
+                                            <span class="company-location text-color-dark font-weight-normal text-uppercase">Greater New York</span>
+                                        </span>
+                                    </div>
+                                    <div class="experience-description col-lg-9 col-sm-7 bg-color-light">
+                                        <h4 class="text-color-dark font-weight-semibold">Juri Lomba Debat Mahasiswa Nasional</h4>
+                                        <p class="custom-text-color-2"></p>
+                                    </div>
+                                </div>
+                            </article>  
+
+                            <article class="timeline-box right custom-box-shadow-2">
+                                <div class="row">
+                                    <div class="experience-info col-lg-3 col-sm-5 bg-color-primary">
+                                        <span class="from text-color-dark text-uppercase">
+                                            From
+                                            <span class="font-weight-semibold">Sep 2012</span>
+                                        </span>
+                                        <span class="to text-color-dark text-uppercase">
+                                            To
+                                            <span class="font-weight-semibold">Present</span>
+                                        </span>
+                                        <p class="text-color-dark">(3 Years 9 Months)</p>
+                                        <span class="company text-color-dark font-weight-semibold">
+                                            Okler Themes
+                                            <span class="company-location text-color-dark font-weight-normal text-uppercase">Greater New York</span>
+                                        </span>
+                                    </div>
+                                    <div class="experience-description col-lg-9 col-sm-7 bg-color-light">
+                                        <h4 class="text-color-dark font-weight-semibold">HIMAPFIS EXPO</h4>
+                                        <p class="custom-text-color-2"></p>
+                                    </div>
+                                </div>
+                            </article>  
+
+                            <article class="timeline-box right custom-box-shadow-2">
+                                <div class="row">
+                                    <div class="experience-info col-lg-3 col-sm-5 bg-color-primary">
+                                        <span class="from text-color-dark text-uppercase">
+                                            From
+                                            <span class="font-weight-semibold">Sep 2012</span>
+                                        </span>
+                                        <span class="to text-color-dark text-uppercase">
+                                            To
+                                            <span class="font-weight-semibold">Present</span>
+                                        </span>
+                                        <p class="text-color-dark">(3 Years 9 Months)</p>
+                                        <span class="company text-color-dark font-weight-semibold">
+                                            Okler Themes
+                                            <span class="company-location text-color-dark font-weight-normal text-uppercase">Greater New York</span>
+                                        </span>
+                                    </div>
+                                    <div class="experience-description col-lg-9 col-sm-7 bg-color-light">
+                                        <h4 class="text-color-dark font-weight-semibold">Juri Kompetisi Debat Mahasiswa Indonesia, FISIP UNSRI</h4>
+                                        <p class="custom-text-color-2"></p>
+                                    </div>
+                                </div>
+                            </article>                                                                                                                                                                                  
                             <div class="timeline-bar"></div>
                         </div>
-                    </section>                    
+                    </section>                                        
                 </div>
             </div>
         </div>
